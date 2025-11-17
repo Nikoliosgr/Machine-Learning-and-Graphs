@@ -1,3 +1,4 @@
+# Machine-Learning-and-Graphs
 This repository contains two machine-learning projects completed as part of the MYE-002 Machine Learning course. The exercises explore fundamental ML techniques, including supervised classification, dimensionality reduction, and neural network–based autoencoding.
 
 File: MachineLearningTorchEdition.ipynb
@@ -26,7 +27,7 @@ Learning Objectives:
   ->Implement and train an autoencoder from scratch
   ->Compare linear vs. non-linear compression methods
 
-The projects were done by:
+# The projects were done by:
 cs05199@uoi.gr Nikolaos Giannopoulos
 cs05357@uoi.gr Georgios Strouggis
 
